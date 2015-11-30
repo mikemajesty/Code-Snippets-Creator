@@ -1,0 +1,2 @@
+# Code Snippets Creator
+Como não existia ferramenta para a criação de code snnipet customizados, resolvi criar um para uso pessoal. Obtive um bom resultado com a criação e facilitou minha vida de de alguns amigos. Um code snnipet se baseia em digitar um atalho no teclado definido pelo criador, que gera um agrupamento de código, uma função, um método ou uma classe inteira. Muito útil para  quem não dispensa a produtividade. 
